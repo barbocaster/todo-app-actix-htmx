@@ -2,7 +2,7 @@
 
 This is a simple CRUD todo app that I did, you can add, remove and check tasks. It uses HTMX + TailwindCSS on the frontend and Actix Web + MongoDB on the backend with Rust. That's my first full stack app that I did so the code might be a little messy.
 
-![Todo app index page](no_image)
+![Todo app index page](https://raw.githubusercontent.com/barbocaster/todo-app-actix-htmx/main/images/image01.png)
 
 # How To Run it
 
